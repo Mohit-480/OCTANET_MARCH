@@ -1,0 +1,29 @@
+.home-img
+{
+  width:vw;
+  min-height: 40vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-img img
+{
+  margin-top: 60px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.img-traversal-container
+{
+  margin-top:40px;
+  margin-bottom:40px;
+  width: vw;
+  height: 80vh;
+  overflow: hidden;
+}
+.img-traversal-container img
+{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
